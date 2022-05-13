@@ -9,8 +9,8 @@ export default function Header() {
         <p>Frontend Developer</p>
         <small>laurasmith.website</small>
         <div className='socials'>
-            <button className='white-btn'><i class="fa fa-envelope" aria-hidden="true"></i> Email</button>
-            <button className='blue-btn'><i class="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</button>
+            <button className='white-btn'><i className="fa fa-envelope" aria-hidden="true"></i> Email</button>
+            <button className='blue-btn'><i className="fa fa-linkedin-square" aria-hidden="true"></i> LinkedIn</button>
         </div>
       </div>
     </div>
